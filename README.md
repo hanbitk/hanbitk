@@ -27,9 +27,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=hanbitk&show_icons=true&theme=merko"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanbitk&theme=merko"/>
+</div>
+
 ---
 
-### 🤔 About Me :
+### 💻  About Me :
 
 Interested in a career as a front-end developer and looking for opportunities to increase my experience in this field.
 
@@ -37,8 +42,9 @@ Spent 1 year self-learning Front-End developer skills such as creating interface
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench:  Languages and Tools : 
 
+</br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -46,6 +52,10 @@ Spent 1 year self-learning Front-End developer skills such as creating interface
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+</br>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanbitk&layout=compact&theme=merko"/>
 </div>
 
 ---
