@@ -27,7 +27,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div>
+<div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=hanbitk&show_icons=true&theme=merko"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanbitk&theme=merko"/>
 </div>
