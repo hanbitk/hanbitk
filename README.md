@@ -52,6 +52,6 @@ Spent 1 year self-learning Front-End developer skills such as creating interface
 
 <div align="center">
 <img src="https://media.giphy.com/media/l1J3IHzSUmCpXThqo/giphy.gif"/>
-<p>I am currently on my life path, hoping to become a Front-End Developer by the end of the journey! All I can say for now is that my story will continue...<p>
+<p>I am currently walking on my life path, hoping to become a Front-End Developer by the end of the journey! All I can say for now is that my story will continue...<p>
 </div>
 
